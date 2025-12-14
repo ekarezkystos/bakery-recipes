@@ -1,4 +1,4 @@
-#🍞 Bakery Recipes App
+#🍞 #Bakery Recipes App
 A full‑stack web application for managing and browsing bakery recipes. Built with PHP (XAMPP) for backend and React + TailwindCSS (Vite) for frontend.
 
 
